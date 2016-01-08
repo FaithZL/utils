@@ -1,4 +1,4 @@
-//create by zhuling
+//create by zhuling 2016.1.8
 #ifndef __FSM_H__
 #define __FSM_H__
 
